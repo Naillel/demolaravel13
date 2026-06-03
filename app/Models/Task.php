@@ -15,5 +15,7 @@ class Task extends Model
         'user_id',
         'completed',
     ];
+
+    // Define the relationship to the User model
 }
 
